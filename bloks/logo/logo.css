@@ -1,0 +1,7 @@
+.logo {
+  width: 90px;
+  height: 90px;
+  margin: 0 0 0 50px;
+  background-image:url(../../images/header/logo.png);
+  background-size: cover;
+}

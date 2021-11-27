@@ -1,0 +1,10 @@
+.menu {
+  margin: 0;
+  padding: 0;
+  min-width: 600px;
+  height: 50px;
+  background-color: #dcdcdc;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}

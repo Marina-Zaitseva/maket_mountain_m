@@ -1,0 +1,11 @@
+.description {
+  height: 570px;
+  background-image: url(../../images/pic_mountain.jpeg);
+  background-size: cover;
+  background-position:center;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
